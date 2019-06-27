@@ -30,7 +30,7 @@ In the article How to build a low-tech internet, the author introduced low tech 
 
 **References**
 
-Carey, James W. “Technology and Ideology: The Case of the Telegraph | Prospects.” *Cambridge Core*, Cambridge University Press, 30 July 2009, www.cambridge.org/core/journals/prospects/article/technology-and-ideology-the-case-of-the-telegraph/9C32F047433D0E498722E5248CD31B51.
+Carey, James W. “Technology and Ideology: The Case of the Telegraph Prospects.” *Cambridge Core*, Cambridge University Press, 30 July 2009, www.cambridge.org/core/journals/prospects/article/technology-and-ideology-the-case-of-the-telegraph/9C32F047433D0E498722E5248CD31B51.
 
 
 
