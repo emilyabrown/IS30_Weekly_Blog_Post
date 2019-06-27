@@ -10,7 +10,7 @@ In the article written by James Carey, the author argued the effect of telegraph
 
 
 
-In the book of The Master Switch written by Professor Wu, he described how rising of novel technology can widely affect the social transformation. In his book, he used the metaphor cycle to describe the oscillation pattern of information industries between open and closed (Wu 6). To my understanding, the cycle refers to  the formation of new technology , the consolidation and monopolization of that technology from industrial companies and the possibly the falling of the technology. Professor Wu used the example of Bell telegraph company transformed into one of the most profound industrial monopoly AT&T. (Wu)
+In the book of The Master Switch written by Professor Wu, he described how rising of novel technology can widely affect the social transformation. In his book, he used the metaphor cycle to describe the oscillation pattern of information industries between open and closed (Wu 6). To my understanding, the cycle refers to  the formation of new technology , the consolidation and monopolization of that technology from industrial companies and the possibly the falling of the technology. Professor Wu used the example of Bell telegraph company transformed into one of the most profound industrial monopoly AT&T. (Wu) This cycle reminds me of the wax and wane of AI, where it starts from a philosophical point describing how programs can be written in a way imitate human behaviors, at first, it posed a hype where people pictured the future of AI as super intelligence. Then people slowly lost promises and interested of AI because they didn't see the super intelligence happen. Today, AI has became one of the most influential technology in technical fields including computer vision, robotics, natural language processing etc. Most of the tech giants uses it for product development. To me, the evolution of AI can be thought as an example of the cycle. 
 
 
 
@@ -30,7 +30,7 @@ In the article How to build a low-tech internet, the author introduced low tech 
 
 **References**
 
-Carey, James W. “Technology and Ideology: The Case of the Telegraph Prospects.” *Cambridge Core*, Cambridge University Press, 30 July 2009, www.cambridge.org/core/journals/prospects/article/technology-and-ideology-the-case-of-the-telegraph/9C32F047433D0E498722E5248CD31B51.
+Carey, James W. “Technology and Ideology: The Case of the Telegraph | Prospects.” *Cambridge Core*, Cambridge University Press, 30 July 2009, www.cambridge.org/core/journals/prospects/article/technology-and-ideology-the-case-of-the-telegraph/9C32F047433D0E498722E5248CD31B51.
 
 
 
