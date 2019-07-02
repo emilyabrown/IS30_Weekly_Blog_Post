@@ -4,3 +4,5 @@ Here are to see my weekly weblog for IS30 from UCLA teaching by [Dr.Dustin O’H
 
 * [Week1 Weblog](Weblog_Week1.md)
 
+- [Week2 Weblog](Webblog_Week2.md)
+
