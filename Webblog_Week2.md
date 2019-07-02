@@ -18,7 +18,7 @@ One point that he brought up when introducing what the system would be look like
 
 
 
-References
+**References**
 
 Fruin, N. W. (n.d.). What hypertext is. Retrieved from https://dl.acm.org/citation.cfm?id=1012844
 
